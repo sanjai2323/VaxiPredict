@@ -1,0 +1,27 @@
+Here’s a polished project description you can use in your README.md and GitHub repo:
+
+🔹 Project Description
+VaxiPredict – Vaccine Hesitancy Intelligence Platform
+
+VaxiPredict is a Streamlit‑based AI‑driven dashboard that predicts and analyzes vaccine hesitancy at the individual and community level. It combines GNN‑LSTM models with real‑world demographic, behavioral, and rumor‑propagation data to:
+
+Identify high‑risk communities likely to resist vaccination
+
+Visualize hesitancy trends over time and geography
+
+Recommend targeted interventions (education, outreach, reminders)
+
+Monitor the impact of campaigns and policy changes
+
+Built entirely in Python, VaxiPredict is designed for public‑health teams, policymakers, and researchers who want an interactive, real‑time view of vaccine confidence—without writing code.
+
+🔹 Key Features
+Multi‑page Streamlit UI (Predictions, Interventions, Networks, Reminders, Rumours, Reports, Settings, Vaccines)
+
+User‑friendly login / auth flow
+
+Centralized predictive dashboard with metrics, charts, and filters
+
+Network‑style visualization of rumor spread and community clusters
+
+Reminder and rumor‑tracking modules to support public‑health outreach
